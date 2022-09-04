@@ -1,0 +1,14 @@
+name: submission_week4
+title: submission_week4
+username:
+account: dionaditya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6917168
+bundleId: 6267525
+url: https://dionaditya.shinyapps.io/submission_week4/
+when: 1662301759.61909
+lastSyncTime: 1662301759.61913
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: doc.md

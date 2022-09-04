@@ -1,0 +1,13 @@
+name: doc1
+title: doc1
+username:
+account: dionaditya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6917231
+bundleId: 6267547
+url: https://dionaditya.shinyapps.io/doc1/
+when: 1662302701.52673
+lastSyncTime: 1662302701.52675
+asMultiple: FALSE
+asStatic: FALSE
